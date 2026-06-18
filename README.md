@@ -5,7 +5,7 @@ The Evergreen Intercontinental Sales Report is an Excel-based business intellige
 
 The dashboard transforms raw sales transaction data into meaningful visualizations and KPIs that support data-driven decision-making.
 
-Project Objectives
+**Project Objectives**
 
 Analyze overall sales performance.
 
